@@ -1,1 +1,3 @@
-print("hello world")
+# author Olga Knutova
+print("Hello World!")
+# programm says Hello World!
