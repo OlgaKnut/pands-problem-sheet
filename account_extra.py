@@ -1,7 +1,7 @@
-# account_extra.py.py
+# account_extra.py
+#Author: Olga Knutova
 # Description: reads in any length account number,
 #              outputs the account number with last 4 digits showing and the rest replaced with Xs.
-# Author: Olga Knutova
 
 
 account_number = input("Please enter an account number: ")
