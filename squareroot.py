@@ -1,6 +1,6 @@
 # squareroot.py
 # Author: Olga Knutova
-# Description: Takes a positive floating-point number as input and outputs an approximation of its square root.
+# Description: takes a positive floating-point number as input and outputs an approximation of its square root.
 
 
 
