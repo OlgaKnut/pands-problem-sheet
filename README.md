@@ -7,7 +7,7 @@
 ## Table of contents:
 ### Week 1 helloworld.py
 ### Week 2 bank.py
-### Week 3 account.py
+### Week 3 [account.py] (https://github.com/OlgaKnut/pands-problem-sheet/blob/main/account.py)
 ### Week 4 collatz.py
 ### Week 5 weekday.py
 ### Week 6 squareroot.py
