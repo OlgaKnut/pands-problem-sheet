@@ -15,8 +15,8 @@
 ### Week 8 plottask.py
 
 ## References:
-### ref.https://www.oraask.com/wiki/python-repeat-string
-### https://www.w3schools.com/python/ref_func_pow.asp#:~:text=Python%20pow%20%28%29%20Function%201%20Definition%20and%20Usage,Examples%20Example%20Get%20your%20own%20Python%20Server%20
-### https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/
-### https://theprogrammingexpert.com/python-read-file-character-by-character/?utm_content=cmp-true
-### https://askubuntu.com/questions/1059579/input-the-filename-in-the-commandline-as-an-argument-in-python
+### 1 https://www.oraask.com/wiki/python-repeat-string
+### 2 https://www.w3schools.com/python/ref_func_pow.asp#:~:text=Python%20pow%20%28%29%20Function%201%20Definition%20and%20Usage,Examples%20Example%20Get%20your%20own%20Python%20Server%20
+### 3 https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/
+### 4 https://theprogrammingexpert.com/python-read-file-character-by-character/?utm_content=cmp-true
+### 5 https://askubuntu.com/questions/1059579/input-the-filename-in-the-commandline-as-an-argument-in-python

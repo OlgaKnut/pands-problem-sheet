@@ -1,5 +1,5 @@
 # helloworld.py
-# author Olga Knutova
-# Descroption: prints Hello World
+# Author: Olga Knutova
+# Description: prints Hello World
 
 print("Hello World!")

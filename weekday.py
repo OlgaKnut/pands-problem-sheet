@@ -1,6 +1,6 @@
 # weekday.py
+# Author: Olga Knutova
 # Description: outputs whether or not today is a weekday
-# Author Olga Knutova
 
 import datetime
 ### https://www.delftstack.com/howto/python/python-datetime-day-of-week/
