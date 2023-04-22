@@ -12,9 +12,10 @@ current_value = int(input("Please enter a positive integer: "))
 while current_value != 1:
         if(current_value % 2) == 0:
             new_current_value = (current_value/2)
-            print (int(new_current_value))
+            print (int(new_current_value),'', end="" )
+            #https://tutorial.eyehunts.com/python/how-to-print-numbers-in-same-line-in-python-example-code/ for output formatting.
             current_value=new_current_value
         else:
             new_current_value = int(current_value*3+1)
-            print (new_current_value)
+            print (new_current_value,'', end="" )
             current_value=new_current_value
